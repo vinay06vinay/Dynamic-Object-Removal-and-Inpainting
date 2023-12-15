@@ -1,0 +1,4 @@
+root: /content/drive/MyDrive/809k/segmenter/seg_tiny_mask/
+logs:
+  seg-t: seg_tiny_mask/log.txt
+  # seg-b: seg_base_mask/log.txt

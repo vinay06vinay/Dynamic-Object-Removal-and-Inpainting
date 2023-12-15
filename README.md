@@ -9,7 +9,9 @@ The Project is divided into two phases:
 
 ## Dynamic Object Detection and Semantic Segmentation
 
-To achieve the dynamic object detection on certain dynamic object classes such as Humans, Birds etc. we fine tune a pre trained Transformer model called Segmenter building upon the baseline code ([Source Code](https://github.com/rstrudel/segmenter)).
+To achieve the dynamic object detection on certain dynamic object classes such as Humans, Birds etc. we fine tune a pre trained Transformer model called Segmenter building upon the baseline code ([Source Code](https://github.com/rstrudel/segmenter)). 
+
+**Download** the source code of segmenter from above source and place the segmenter folder in the directory where the below notebooks are run.
 
 The Integrated Code Implementation done to achieve this task can be accessed through [Jupyter Notebook](/Dynamic-Object-Removal-and-Inpainting/sem_seg_trans.ipynb).
 

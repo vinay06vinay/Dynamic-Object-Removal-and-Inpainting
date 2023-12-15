@@ -31,7 +31,7 @@ To improve the Background reconstruction quality after dynamic object removal up
 
 The Integrated Code Implementation done to achieve this task can be accessed through [Jupyter Notebook](/Dynamic-Object-Removal-and-Inpainting/sem_seg_trans.ipynb).
 
-Also, the Loss Curves and Precision Curves are inferred for different datasets when fine tuned the pre trained Model. The Source Notebook Can be found [here](/Dynamic-Object-Removal-and-Inpainting/Graphs.ipynb)
+
 
 #### Video Inpainting Results Results:
 

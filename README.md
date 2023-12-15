@@ -13,9 +13,9 @@ To achieve the dynamic object detection on certain dynamic object classes such a
 
 **Install** the environment according to above source and place the segmenter folder in the directory where the below notebooks are run. Also, please refer to instructions inside the ipynb files for the config files need to be replaced with source configs before performing transfer learning
 
-The Integrated Code Implementation done to achieve this task can be accessed through [Jupyter Notebook](/Dynamic-Object-Removal-and-Inpainting/sem_seg_trans.ipynb).
+The Integrated Code Implementation done to achieve this task can be accessed through [Jupyter Notebook](sem_seg_trans.ipynb).
 
-Also, the Loss Curves and Precision Curves are inferred for different datasets when fine tuned the pre trained Model. The Source Notebook Can be found [here](/Dynamic-Object-Removal-and-Inpainting/Graphs.ipynb)
+Also, the Loss Curves and Precision Curves are inferred for different datasets when fine tuned the pre trained Model. The Source Notebook Can be found [here](Transfer_Learning.ipynb)
 
 #### Object Detection Results:
 

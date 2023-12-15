@@ -11,7 +11,7 @@ The Project is divided into two phases:
 
 To achieve the dynamic object detection on certain dynamic object classes such as Humans, Birds etc. we fine tune a pre trained Transformer model called Segmenter building upon the baseline code ([Source Code](https://github.com/rstrudel/segmenter)). 
 
-**Install** the environment according to above source and place the segmenter folder in the directory where the below notebooks are run.
+**Install** the environment according to above source and place the segmenter folder in the directory where the below notebooks are run. Also, please refer to instructions inside the ipynb files for the config files need to be replaced with source configs before performing transfer learning
 
 The Integrated Code Implementation done to achieve this task can be accessed through [Jupyter Notebook](/Dynamic-Object-Removal-and-Inpainting/sem_seg_trans.ipynb).
 

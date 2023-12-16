@@ -29,7 +29,7 @@ The Segmentation Results Before and After Fine Tuning:
 
 To improve the Background reconstruction quality after dynamic object removal upon the exisiting implementation of DynaSLAM we use Inpainting Technique called ProPainter building upon the baseline code ([Source Code](https://github.com/sczhou/ProPainter)).
 
-The Integrated Code Implementation done to achieve this task can be accessed through [Jupyter Notebook](/Dynamic-Object-Removal-and-Inpainting/sem_seg_trans.ipynb).
+To run inference using Propainter, sequences from TUM RGBD Dataset/custom Data require preprocessing(Resizing,sequencing images etc).The code used for data processing is provided [here](Data_PreProcessing/).
 
 
 
@@ -41,6 +41,8 @@ The Video Inpainting Results of an Image Compared with DynaSLAM:
 </p>
 
 The Video result inferred on custom dataset:
+
+![masked input](results\masked_in.gif)   ![Inpainted Output](results\inpainted_out.gif)
 
 
 

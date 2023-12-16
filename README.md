@@ -42,7 +42,7 @@ The Video Inpainting Results of an Image Compared with DynaSLAM:
 
 The Video result inferred on custom dataset:
 
-                                        ![masked input](results/masked_in.gif)        ![Inpainted Output](results/inpainted_out.gif)
+![masked input](results/masked_in.gif)    ![Inpainted Output](results/inpainted_out.gif)
 
 
 

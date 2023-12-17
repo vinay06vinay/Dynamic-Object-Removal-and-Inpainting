@@ -19,7 +19,9 @@ Also, the Loss Curves and Precision Curves are inferred for different datasets w
 
 #### Training and Validation curves : 
 ##### Training loss curve
-![Alt text](pascal_tloss.png)
+<p align="center">
+<img width="40%" alt="Train_loss" src="pascal_tloss.png">
+</p>
 
 #### Validation loss curve
 ![Alt text](pascal_valloss.png)

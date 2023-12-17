@@ -20,14 +20,18 @@ Also, the Loss Curves and Precision Curves are inferred for different datasets w
 #### Training and Validation curves : 
 ##### Training loss curve
 <p align="center">
-<img width="40%" alt="Train_loss" src="pascal_tloss.png">
+<img width="30%" alt="Train_loss" src="pascal_tloss.png">
 </p>
 
 #### Validation loss curve
-![Alt text](pascal_valloss.png)
+<p align="center">
+<img width="30%" alt="Validation_loss" src="pascal_valloss.png">
+</p>
 
 #### Validation Mean IoU Curve
-![Alt text](plot_iou_TL.png)
+<p align="center">
+<img width="20%" alt="Validation_loss" src="plot_iou_TL.png">
+</p>
 
 #### Object Detection Results:
 

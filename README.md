@@ -17,6 +17,16 @@ The Integrated Code Implementation done to achieve this task can be accessed thr
 
 Also, the Loss Curves and Precision Curves are inferred for different datasets when fine tuned the pre trained Model. The Source Notebook Can be found [here](Transfer_Learning.ipynb)
 
+#### Training and Validation curves : 
+##### Training loss curve
+![Alt text]pascal_tloss.png
+
+#### Validation loss curve
+![Alt text]pascal_valloss.png
+
+#### Validation Mean IoU Curve
+![Alt text]plot_iou_TL.png
+
 #### Object Detection Results:
 
 The Segmentation Results Before and After Fine Tuning:

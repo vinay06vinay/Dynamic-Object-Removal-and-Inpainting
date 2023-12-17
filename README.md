@@ -30,7 +30,7 @@ Also, the Loss Curves and Precision Curves are inferred for different datasets w
 
 #### Validation Mean IoU Curve
 <p align="center">
-<img width="20%" alt="Validation_loss" src="plot_iou_TL.png">
+<img width="30%" alt="Validation_loss" src="plot_iou_TL.png">
 </p>
 
 #### Object Detection Results:
